@@ -2,7 +2,7 @@
 A small implementation of Djiktra and A* algorithm in a game where the AI tries to find the shortest route to defeat the other enemy tank.
 
 ## Prerequisites
-Python 3
+Python 3 <br>
 Tkintr
 
 ## How to run
